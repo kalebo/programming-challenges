@@ -8,6 +8,7 @@ Polyglot
 * http://rosalind.info/
 * http://exercism.io/
 * http://www.spoj.com/
+* https://programmingpraxis.com/
 
 Community
 ------
@@ -34,4 +35,4 @@ Competitive
 * http://www.codewars.com/
 * https://www.codechef.com/
 * https://www.hackerrank.com/
-
+* https://leetcode.com/
